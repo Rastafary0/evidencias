@@ -6,10 +6,10 @@
 - Crear un nuevo repositorio en GitHub y realizar la inicialización en la carpeta del repositorio previamente clonado.
 - Configurar el repositorio como GitHub Pages
 
-[Video](https://www.loom.com/share/f106a7c6a36e41eabc9b68a8a622bff2?sid=158c53f4-edf2-4619-9656-c294a2ccf004)
+[Video](https://firebasestorage.googleapis.com/v0/b/cesde-7fe22.appspot.com/o/Documentaci%C3%B3n%20Evidencias%2FEvidencias-Crear%20Repositorio.mp4?alt=media&token=2aaf8337-8a38-427a-9cf9-fb6aa7454f92)
 
 ## 2. Actualizar contenido
 
 - Clonar el repositorio, actualizar su contenido y luego subir los cambios a GitHub.
 
-[Video](https://www.loom.com/share/82d39efceedc4514a914579e5f9fa6c6?sid=b5bc68b5-9032-4d38-a1a4-04768417b011)
+[Video](https://firebasestorage.googleapis.com/v0/b/cesde-7fe22.appspot.com/o/Documentaci%C3%B3n%20Evidencias%2FEvidencias-Actualizar%20contenido.mp4?alt=media&token=00b5a3b6-ac65-4cf9-8dad-73aab6bad425)
