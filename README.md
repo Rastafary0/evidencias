@@ -36,7 +36,7 @@ title: Documentación
 nombres: ALEXANDER VELASQUEZ
 submodulo: PROGRAMACION APLICACIONES MOVILES I
 periodo: 2023-2
-url_foto:  https://www.aprenderjuntos.cl/wp-content/uploads/2020/08/LEON-SERIO-.jpg
+url_foto: https://www.aprenderjuntos.cl/wp-content/uploads/2020/08/LEON-SERIO-.jpg
 ```
 
 ### 3. Actualizar contenido
