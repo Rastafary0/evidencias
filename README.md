@@ -33,8 +33,8 @@ plugins:
 
 title: Documentación
 
-nombres: Nombres y Apellidos
-submodulo: Lógica de Programación
+nombres: ALEXANDER VELASQUEZ
+submodulo: PROGRAMACION APLICACIONES MOVILES I
 periodo: 2023-2
 url_foto:  Enlace a la imagen
 ```
