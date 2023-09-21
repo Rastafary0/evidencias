@@ -36,7 +36,7 @@ title: Documentación
 nombres: ALEXANDER VELASQUEZ
 submodulo: PROGRAMACION APLICACIONES MOVILES I
 periodo: 2023-2
-url_foto:  Enlace a la imagen
+url_foto:  https://mail.google.com/mail/u/0?ui=2&ik=9bb2d45293&attid=0.1&permmsgid=msg-a:r5457164577441680484&th=189c62d522253c16&view=att&disp=safe&realattid=189c62d2200ee8e4ca1
 ```
 
 ### 3. Actualizar contenido
