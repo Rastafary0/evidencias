@@ -8,18 +8,28 @@
 
 ## Actividad 2 cuestionario
 
+## Actividad 2 cuestionario
+
 Cuestionario de Lógica de Programación en Java - Nivel Básico:
 
 ¿Cuál de las siguientes opciones es un tipo de dato primitivo en Java?.
+
 a. String.
+
 b. Integer.
+
 c. boolean - respuesta.
+
 d. Object.
 
 ¿Qué estructura de control se utiliza para repetir un bloque de código mientras se cumple una condición?.
+
 a. if-else.
+
 b. switch.
+
 c. do-while - respuesta.
+
 d. for.
 
 En Java, ¿cómo se declara una variable que no puede cambiar su valor después de la inicialización?.
@@ -128,7 +138,4 @@ a. HelloWorld.
 b. "HelloWorld".
 c. Hello + World.
 d. HelloWorld - Respuesta Correcta.
-
-
-
 
