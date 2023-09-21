@@ -7,6 +7,7 @@
 <!-- Su documentación aquí -->
 
 ## Actividad 2 cuestionario
+
 Cuestionario de Lógica de Programación en Java - Nivel Básico:
 ¿Cuál de las siguientes opciones es un tipo de dato primitivo en Java?.
 a. String.
@@ -108,6 +109,8 @@ a. HelloWorld.
 b. "HelloWorld".
 c. Hello + World.
 d. HelloWorld - Respuesta Correcta.
+
+
 
 
 
