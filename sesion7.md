@@ -6,7 +6,7 @@
 
 <!-- Su documentación aquí -->
 
-##Actividad 7: 
+## Actividad 7: 
 Clase Producto con Métodos Sobrecargados
 Crea una clase llamada Producto que representará productos en una tienda en línea. La clase debe tener los siguientes atributos privados:
 
