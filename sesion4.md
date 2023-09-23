@@ -36,7 +36,7 @@ Utilice los modificadores de acceso para controlar el acceso a los atributos de 
 Agregue getter y setter para acceder y modificar los valores de los atributos de la clase.
 Pruebe la clase Producto creando una instancia de la clase y accediendo a los atributos de la instancia.
 
-
+```
 Clase.
 
 import java.util.logging.Logger;
@@ -130,3 +130,4 @@ public class Actividadad4 {
         
     }
 }
+```
