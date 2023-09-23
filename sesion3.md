@@ -25,7 +25,7 @@ Presentar la presentación de diapositivas al grupo, compartiendo los hallazgos 
 
 
 
-
+```
 //Atributos.
 
 public class Jugadores {
@@ -98,6 +98,8 @@ public Jugadores(String nombre, int edad, String posicion, int numero_camiseta, 
         System.out.println(jugador1.toString());
     }
 }
+
+```
 
 
 
