@@ -45,7 +45,7 @@ Cada clase hija debe implementar los métodos abstractos de la superclase Musica
 
 Super clase Musica
  
-'''
+´´´
 
 public abstract class Musica {
     
@@ -66,11 +66,11 @@ public abstract class Musica {
        
 }
 
-'''
+´´´
 
 Cancion
 
-'''
+´´´
 public class Cancion extends Musica {
     
     private String artista;
@@ -122,7 +122,7 @@ public class Cancion extends Musica {
 	
 	BandaSonora
 	
-	'''
+	´´´
 	
 	public class BandaSonora extends Musica {
     
@@ -169,11 +169,11 @@ public class Cancion extends Musica {
        
 }
 
-'''
+´´´
 
 Album
 
-'''
+´´´
 public class Album extends Musica{
     
     private String canciones;
@@ -217,7 +217,7 @@ public class Album extends Musica{
       
 }
 
-'''
+´´´
 
 
 
