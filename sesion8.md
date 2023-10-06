@@ -43,9 +43,9 @@ Métodos Anulados (Override): Implementar los métodos anulados (override) de la
 Cada clase hija debe implementar los métodos abstractos de la superclase Musica de manera adecuada para su tipo de música.
 
 
-Super clase Musica
+## Super clase Musica
  
-´´´
+```
 
 public abstract class Musica {
     
@@ -66,11 +66,11 @@ public abstract class Musica {
        
 }
 
-´´´
+```
 
-Cancion
+ ## Cancion
 
-´´´
+```
 public class Cancion extends Musica {
     
     private String artista;
@@ -118,11 +118,11 @@ public class Cancion extends Musica {
    
     }
 	
-	'''
+```
 	
-	BandaSonora
+## BandaSonora
 	
-	´´´
+```
 	
 	public class BandaSonora extends Musica {
     
@@ -169,11 +169,11 @@ public class Cancion extends Musica {
        
 }
 
-´´´
+```
 
-Album
+## Album
 
-´´´
+```
 public class Album extends Musica{
     
     private String canciones;
@@ -217,7 +217,7 @@ public class Album extends Musica{
       
 }
 
-´´´
+```
 
 
 
