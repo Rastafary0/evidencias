@@ -1,10 +1,10 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 9 
+##  Sesión 9 
 
 
-## Ejercicio 9
+##  Ejercicio 9
 POO - Conversor de Unidades
 El ejercicio consiste en crear una aplicación de convertidor de unidades.
 en Java que implemente una superclase.
