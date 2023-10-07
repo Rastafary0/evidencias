@@ -219,9 +219,54 @@ public class Album extends Musica{
 
 ```
 
+## Lista de Almbum
 
+```
 
+ public class Album extends Musica {
+        private List<Cancion> canciones;
 
+        public Album(String titulo, List<Cancion> canciones) {
+            super(titulo);
+            this.canciones = canciones;
+        }
+
+        @Override
+        public void play() {
+            System.out.println("Reproduciendo el álbum: " + getTitulo());
+            for (Cancion cancion : canciones) {
+                cancion.play();
+            }
+        }
+
+        @Override
+        public void stop() {
+            System.out.println("Deteniendo el álbum: " + getTitulo());
+            for (Cancion cancion : canciones) {
+                cancion.stop();
+            }
+        }
+
+        @Override
+        public void pause() {
+            System.out.println("Pausando el álbum: " + getTitulo());
+            for (Cancion cancion : canciones) {
+                cancion.pause();
+            }
+        }
+
+        @Override
+        public void next() {
+            System.out.println("Avanzando al siguiente en el álbum: " + getTitulo());
+        }
+
+        @Override
+        public void previous() {
+            System.out.println("Retrocediendo al anterior en el álbum: " + getTitulo());
+        }
+    }
+
+```
 
 
 
