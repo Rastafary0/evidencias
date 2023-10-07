@@ -38,16 +38,12 @@ En el método main, crea tres instancias de la clase Producto utilizando los dif
 
 
 
+## CLASE
 ```
-CLASE
-
 
 package com.mycompany.actividad7;
 
-/**
- *
- * @author alexander
- */
+
 public class Producto {
     
    public String nombre;
@@ -124,10 +120,10 @@ public class Producto {
         }
     }
 }
+```
+## MAIN
 
-MAIN
-
-
+```
 public class Actividad7 {
 
     public static void main(String[] args) {
@@ -156,9 +152,9 @@ public class Actividad7 {
         
     }
     
-   // metodo sobrecargado
-    
+ 
    ``` 
+    
     
    
 
