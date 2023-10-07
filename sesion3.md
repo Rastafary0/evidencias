@@ -25,6 +25,7 @@ Presentar la presentación de diapositivas al grupo, compartiendo los hallazgos 
 
 
 
+## Clase jugadores
 ```
 //Atributos.
 
@@ -85,8 +86,10 @@ public Jugadores(String nombre, int edad, String posicion, int numero_camiseta, 
                 ", equipo='" + equipo + '\'' +
                 '}';
     }
-//Metodos.
+```
+## Main
 
+```
     public static void main(String[] args) {
         Jugadores jugador1 = new Jugadores("Juan", 25, "Delantero", 10, "EquipoA");
 
