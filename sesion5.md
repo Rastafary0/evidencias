@@ -41,7 +41,7 @@ Agregar métodos adicionales a la clase Motocicleta según su creatividad y util
 
 
 ## Clase vehiculo
-```
+```java
 class Vehiculo {
         protected String marca;
         protected String modelo;
@@ -61,7 +61,7 @@ public void mostrarInformacion() {
 ```
 ## Subclase automovil
 
-```
+```java
 class Automovil extends Vehiculo {
 private int numPuertas;
 private String tipoTransmision;
@@ -82,7 +82,7 @@ public void mostrarInformacionAutomovil() {
 ```
 ## subclase Motocicleta
 
-```
+```java
 class Motocicleta extends Vehiculo {
 private String tipo;
 private int cilindraje;
@@ -107,7 +107,7 @@ public void mostrarInformacionMotocicleta() {
 
 ## Main
 
-```
+```java
 
 public class Main {
 public static void main(String[] args) {

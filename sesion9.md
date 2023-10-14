@@ -13,7 +13,7 @@ subclases, herencias, constructores, métodos abstractos. La aplicación debe.
 
 
 ## 1. Superclase Conversor
-```
+```java
 public abstract class Conversor {
     protected String unidadOrigen;
     protected String unidadDestino;
@@ -30,7 +30,7 @@ public abstract class Conversor {
 
 ## 2. Subclase Temperatura
 
-```
+```java
 public class Temperatura extends Conversor {
 
     public Temperatura(String unidadOrigen, String unidadDestino) {
@@ -67,7 +67,7 @@ public class Temperatura extends Conversor {
 
 ```
 ## 3. Subclase Longitud
-```
+```java
 public class Longitud extends Conversor {
 
     public Longitud(String unidadOrigen, String unidadDestino) {
@@ -133,7 +133,7 @@ public class Longitud extends Conversor {
 }
 ```
 ## 4. Subclase Peso
-```
+```java
 public class Peso extends Conversor {
 
     public Peso(String unidadOrigen, String unidadDestino) {
@@ -212,7 +212,7 @@ public class Peso extends Conversor {
 ```
 
 ## 5. Subclase Divisas
-```
+```java
 
 ## public class Divisas extends Conversor{
 
@@ -250,7 +250,7 @@ public class Peso extends Conversor {
 
 ## 6. Subclase Programador
 
-```
+```java
 
 class Programador extends Conversor {
 
@@ -302,7 +302,7 @@ class Programador extends Conversor {
 
 ## Main
 
-```
+```java
 public class Actividad9 {
 
     public static void main(String[] args) {

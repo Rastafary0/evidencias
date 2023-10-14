@@ -45,7 +45,7 @@ Cada clase hija debe implementar los métodos abstractos de la superclase Musica
 
 ## Super clase Musica
  
-```
+```java
 
 public abstract class Musica {
     
@@ -70,7 +70,7 @@ public abstract class Musica {
 
 ## Cancion
 
-```
+```java
 public class Cancion extends Musica {
     
     private String artista;
@@ -122,7 +122,7 @@ public class Cancion extends Musica {
 	
 ## BandaSonora
 	
-```
+```java
 	
 	public class BandaSonora extends Musica {
     
@@ -173,7 +173,7 @@ public class Cancion extends Musica {
 
 ## Album
 
-```
+```java
 public class Album extends Musica{
     
     private String canciones;
@@ -221,7 +221,7 @@ public class Album extends Musica{
 
 ## Lista de Album
 
-```
+```java
 
  public class Album extends Musica {
         private List<Cancion> canciones;

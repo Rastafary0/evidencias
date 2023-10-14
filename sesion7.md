@@ -39,7 +39,7 @@ En el método main, crea tres instancias de la clase Producto utilizando los dif
 
 
 ## CLASE
-```
+```java
 
 package com.mycompany.actividad7;
 
@@ -123,7 +123,7 @@ public class Producto {
 ```
 ## MAIN
 
-```
+```java 
 public class Actividad7 {
 
     public static void main(String[] args) {
