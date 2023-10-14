@@ -219,7 +219,7 @@ public class Album extends Musica{
 
 ```
 
-## Lista de Almbum
+## Lista de Album
 
 ```
 

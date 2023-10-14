@@ -147,10 +147,11 @@ public class Actividad7 {
         p1.mostrarInformacion();
         p2.mostrarInformacion();
         p3.mostrarInformacion();
+    }  
+}
         
         
-        
-    }
+    
     
  
    ``` 
